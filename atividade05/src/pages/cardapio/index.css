@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+  margin-bottom: 10rem;
+  color: black;
+}
+
+main {
+  color: white;
+  min-height: 100vh;
+  background-image: url("../../assets/bg.png");
+  place-content: center;
+}
+
+.question-container {
+  background-color: white;
+  padding: 2rem;
+}
+
+.hero-container {
+  max-width: 140rem;
+  margin: 0 auto;
+}
+
+.hero-logo {
+  width: 80%;
+}
+
+.logo-container {
+  object-fit: cover;
+  width: 100%;
+  text-align: center;
+
+}
