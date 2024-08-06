@@ -1,0 +1,35 @@
+.form-container {
+  text-align: center;
+  border: 2px solid black;
+  padding: 2rem 4rem;
+  background-color: white;
+}
+
+.auth-form {
+  background-color: white;
+  padding: 2rem;
+  margin: 0;
+}
+
+.image-content {
+  height: 100%;
+  object-fit: cover;
+}
+
+.image-content img {
+  height: 100%;
+}
+
+.main-row {
+  text-align: center;
+}
+
+.main-row button {
+  padding: 1rem 0;
+}
+
+.main-container {
+  min-height: 100vh;
+  place-content: center;
+  display: grid;
+}
