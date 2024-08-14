@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nome": "teste",
+      "email": "teste",
+      "senha": "123456",
+      "phone": "123-456-7890",
+      "contacts": []
+    },
+    {
+      "id": "3f12",
+      "nome": "matheus",
+      "email": "matheus@teste.com",
+      "senha": "123",
+      "phone": "",
+      "contacts": [
+        {
+          "nome": "nilsonAAAA",
+          "email": "nilson@example.com",
+          "senha": "123"
+        }
+      ]
+    },
+    {
+      "id": "00d0",
+      "nome": "nilson",
+      "email": "nilson@example.com",
+      "senha": "123",
+      "phone": "",
+      "contacts": [
+        {
+          "nome": "Professor Luciano",
+          "email": "luciano@teste.com",
+          "senha": "123"
+        }
+      ]
+    },
+    {
+      "id": "e5fe",
+      "nome": "luciano",
+      "email": "luciano@teste.com",
+      "senha": "123",
+      "phone": "",
+      "contacts": []
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Lorem Ipsum",
+      "body": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+      "userId": 1
+    },
+    {
+      "id": "2",
+      "title": "Sic Dolor amet",
+      "body": "Sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem...",
+      "userId": 2
+    },
+    {
+      "id": "3",
+      "title": "Sic Dolor amet",
+      "body": "Sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem...",
+      "userId": 2
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.btn-form {
+  border: none;
+  padding: 1rem 0.6rem;
+  color: white;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: rgb(27, 103, 208);
+}
